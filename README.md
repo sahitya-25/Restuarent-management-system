@@ -8,22 +8,28 @@ This is a sample project for creating a food and restaurant website using HTML, 
 - CSS: Used for styling the web pages and adding visual effects.
 - JavaScript: Used for adding interactivity and dynamic functionality to the website.
 - Bootstrap: A popular CSS framework used for creating responsive and mobile-friendly web pages.
+- 
+## How to Structure Your Project Files
+To maintain an organized project, structure your files and directories properly. Here's an example of how to do it:
 
 ## Project Structure
 
 The project contains the following files and directories:
 
-- **index.html**: The main entry point of the website.
-- **css/**: A directory containing CSS stylesheets.
-  - **style.css**: Contains custom styles for the website.
-  - **responsive-style.css**: Contains responsive styles for the website.
-- **js/**: A directory containing JavaScript files.
-  - **main.js**: Contains custom JavaScript code for the website.
-- **images/**: A directory for storing image files used in the website.
-  - **bg/**: Contains header images 
-  - **img/**: Contains images for gallery
-  - **review/**: Contains images for testimonial
-  - **logo.png**: This is a logo image for a website   
+food-restaurant-website/
+├── css/
+│   ├── style.css
+│   └── responsive-style.css
+├── js/
+│   └── main.js
+├── images/
+│   ├── bg/
+│   ├── img/
+│   ├── review/
+│   └── logo.png
+├── index.html
+└── README.md
+
 
 ## Getting Started
 
