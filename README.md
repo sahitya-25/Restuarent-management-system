@@ -15,6 +15,8 @@ To maintain an organized project, structure your files and directories properly.
 ## Project Structure
 
 The project contains the following files and directories:
+
+
 ![Screenshot 2025-03-10 122842](https://github.com/user-attachments/assets/5624c39f-9216-4ee6-b19f-6b4bf02628da)
 
 
